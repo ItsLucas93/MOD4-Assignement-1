@@ -77,6 +77,7 @@ public class Temperature {
      * >	{getCelsius()}°C (Celsius)
      * >	{getKelvin()}°K (Kelvin)
      * -----------------------------
+     * Print temperature with full digits behind the decimal point for precision
      * @return String ready to be printed
      */
     @Override
